@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LetsDoSomething-1.8</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_opened">Drawer Opened</string>
+    <string name="drawer_closed">Drawer Closed</string>
+
+    <!--sliding bar-->
+    <string name="avatar_name">avatar_name</string>
+    <string name="avatar_sub">avatar_sub</string>
+
+    <string name="home_Title">Home</string>
+    <string name="sub_home_title">Sub home title</string>
+    <string name="settings_Title">Settings</string>
+    <string name="sub_settings_title">Sub settings title</string>
+    <string name="about_Title">About</string>
+    <string name="sub_about_title">Sub about title</string>
+
+</resources>

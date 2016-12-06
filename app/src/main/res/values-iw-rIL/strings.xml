@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">בוא נעשה משהו-1.8</string>
+    <string name="action_settings">הגדרות</string>
+
+    <!--sliding bar-->
+    <string name="avatar_name">שם משתמש</string>
+    <string name="avatar_sub">תת כותרת משתמש</string>
+
+    <string name="home_Title">בית</string>
+    <string name="sub_home_title">תת כותרת בית</string>
+    <string name="settings_Title">הגדרות</string>
+    <string name="sub_settings_title">תת כותרת הגדרות</string>
+    <string name="about_Title">אודות</string>
+    <string name="sub_about_title">תת כותרת אודות</string>
+
+
+</resources>
